@@ -1,0 +1,26 @@
+.panelContent, .p-panel .p-panel-header .p-panel-title{
+    width: 100% !important;
+}
+.sangphai{
+    width: 20px !important;
+    height: 20px !important;
+    background-color: #00A6ED !important;
+    color: #fff !important;
+    display: flex !important;
+    justify-content: center !important;
+    align-items: center !important;
+    border-radius: 4px !important;
+}
+.giohang{
+    width: 50px !important;
+    height: 50px !important;
+    display: flex !important;
+    justify-content: center !important;
+    align-items: center !important;
+    border: 3px solid #fff !important;
+    border-radius: 50% !important;
+}
+.panelContent .p-panel-icons{
+    opacity: 0 !important;
+    display: none !important;
+}

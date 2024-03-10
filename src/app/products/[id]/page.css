@@ -1,0 +1,11 @@
+.soluong, p-button-secondary p-inputnumber-button p-inputnumber-button-up p-button p-button-icon-only p-component{
+    background-color: #64748B !important;
+    /* color: #fff !important; */
+}
+.soluong .p-inputtext{
+    width: 3rem !important;
+}
+.kichthuoc, .p-radiobutton .p-component{
+    width: 28px !important;
+    height: 28px !important;
+}

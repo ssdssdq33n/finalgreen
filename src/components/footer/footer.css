@@ -1,0 +1,35 @@
+.footter{
+    background-color: #222222 !important; 
+}
+.DangKi{
+    width: 45% !important;
+}
+.chu{
+    color: white !important;
+    font-size: 20px !important;
+}
+.DangKi1{
+    width: 40% !important;
+    margin-left: 30%!important;
+}
+.iconMau{
+    color: white !important;
+}
+.ChuP p{
+    font-family: Arial, Helvetica, sans-serif !important;
+    font-size: 15px !important;
+    color: white !important;
+}
+.ChuP h1{
+    font-size: 20px !important;
+    color: white !important;
+}
+.ChuP1 p:hover{
+    color: #F0E68C !important;
+}
+.ChuP1 p{
+    color: #999999!important;
+}
+.ChuP2 p {
+    color: #999999!important;
+}

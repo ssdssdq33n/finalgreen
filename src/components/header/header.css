@@ -1,0 +1,135 @@
+.headder{
+    background-color: #222222 !important; 
+    padding-bottom: 40px !important;
+}
+.spanMau{
+    color: white;
+    background-color: chocolate !important;
+}
+.icon1{
+    font-size: 20px !important;
+    margin-right: 5px;
+}
+.DiaChi{
+    color: white !important;
+    background-color: #222222 !important;
+    margin-top: 30px !important;
+}
+.timKiem{
+    padding-top: 45px!important;
+}
+.Anh{
+padding-top: 40px !important;
+}
+.KhuVuc{
+    width: 25% !important;
+    padding-left: 0.5% !important;
+    padding-right: 0.5% !important;
+}
+.KhuVuc p{
+    font-size: 13px !important;
+}
+.KhuVuc h1{
+    font-size: 20px !important;
+    text-align: center !important;
+}
+.tinhThanh p{
+    font-size: 14px !important;
+}
+.chuCard{
+    background-color: #FAEBD7 !important;
+    padding-top: 2% !important;
+    padding-bottom: 2% !important;
+}
+hr{
+    font-size: 2px;
+}
+.chuCard p{
+    padding-left: 3% !important;
+}
+.chuCard1 p{
+    font-size: 14px !important;
+}
+.chuCard1{
+    margin-top: 2% !important;
+}
+hr{
+    width: 100% !important;
+    font-size: 10px !important;
+    color: black !important;
+}
+.InDam{
+    font-weight: bold !important;
+}
+.tinhThanh1{
+    margin-top: 3% !important;
+}
+.DiaChi p{
+    font-size: 14px !important;
+}
+.GioHang{
+    color: white !important;
+    font-size: 14px !important;
+    margin-top: 0.5% !important;
+}
+.DN{
+    color: black !important;
+}
+.DN h2{
+    font-size: 19px !important;
+}
+.DN p{
+    font-size: 13px !important; 
+}
+.TrangChu a{
+    padding-right: 35px !important;
+    font-size: 18px !important;
+    font-weight: bold !important;
+}
+.TrangChu{
+    margin-top: 1% !important;
+    margin-bottom: 1% !important;
+}
+nav ul {
+    z-index: 5;
+    list-style: none !important;
+    padding: 0 !important;
+    margin: 0 !important;
+    font-family: Arial, Helvetica, sans-serif !important;
+}
+
+nav ul li {
+    display: inline-block !important;
+    position: relative !important;
+}
+
+nav ul li a {
+    display: block !important;
+    text-decoration: none !important;
+}
+
+nav ul li ul {
+    display: none !important;
+    position: absolute !important;
+    background-color: #f9f9f9 !important;
+}
+nav ul li a:hover{
+    color :#FFCC66 !important;
+}
+nav ul li:hover ul {
+    display: block !important;
+}
+
+nav ul li ul li {
+    display: block !important;
+    width: 200px !important;
+}
+
+nav ul li ul li a {
+    padding: 10px !important;
+    opacity: 0.6 !important;
+}
+.Down a{
+    font-size: 12px !important;
+    box-shadow: 6px 6px #f9f9f9!important;
+}

@@ -1,0 +1,24 @@
+.trangPhuc{
+    background-color: white !important;
+}
+.trangPhuc-chu{
+    font-weight: bold !important;
+
+}
+.image{
+	display:block !important;
+	overflow: hidden !important;
+}
+.image img{
+	display:block !important;
+	transition: all .3s ease !important;
+}
+.image img:hover{
+	transform: scale(1.3) !important; /* cỡ zoom khi di chuột vào */
+}
+.cachbot{
+	padding-bottom: 0 !important;
+}
+.anh-chinh{
+	width: 100% !important;
+}

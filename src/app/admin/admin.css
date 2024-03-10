@@ -1,0 +1,13 @@
+.nhantin #ce-send-message-button{
+    display: flex !important;
+    justify-content: center !important;
+    align-items: center !important;
+}
+.nhantin .ce-chat-form-container{
+    display: none;
+}
+.nhantin #msg-textarea{
+    border: 1px solid #ddd !important;
+    border-radius: 10px !important;
+    height: 2rem !important;
+}

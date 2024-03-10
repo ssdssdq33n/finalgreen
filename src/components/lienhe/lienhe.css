@@ -1,0 +1,26 @@
+.lienhe .ce-chat-list-column{
+    display: none !important;
+}
+.lienhe .ce-settings-column{
+    display: none !important;
+}
+.lienhe .ce-chat-feed-column{
+    flex: none !important;
+    width: 100% !important;
+    max-width: 100% !important;
+}
+.lienhe .ce-wrapper{
+    display: flex !important;
+    justify-content: center !important;
+    align-items: center !important;
+}
+.lienhe #ce-send-message-button{
+    display: flex !important;
+    justify-content: center !important;
+    align-items: center !important;
+}
+.lienhe #msg-textarea{
+    border: 1px solid #ddd !important;
+    border-radius: 10px !important;
+    height: 2rem !important;
+}

@@ -1,0 +1,8 @@
+.p-dialog-title{
+    display: flex;
+    justify-content: center;
+}
+.p-fileupload-choose{
+    height: 100% !important;
+    width: 100% !important;
+}
